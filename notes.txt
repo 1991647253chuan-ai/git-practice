@@ -1,3 +1,5 @@
 今天学了：
 1. git switch -c 分支名 → 创建并切换分支 （超好用！）
 2. git branch → 查看所有分支
+## Git学习笔记
+reset可以撤回commit
